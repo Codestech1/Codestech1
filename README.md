@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on GoldenLauncher.
 - 🌱 I’m currently learning Java.
 - 🤔 I’m looking for help with Airplane Paper Fork.
-- 📫 How to reach me: On discord! My discord -> HEROOSTECH OFFICIAL#3108.
+- 📫 How to reach me: On discord! My discord -> HEROOSTECH#0001.
 - ⚡ Fun fact: My name is shortcut of very long name.
 - 💚 My favorite game: Minecraft.
 - 💥 I love making plugins for Bukkit.
