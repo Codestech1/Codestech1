@@ -1,8 +1,7 @@
 ### Hi there, I'm HEROOSTECH. 👋
 
 - 🔭 I’m currently working on my mc server.
-- 🌱 I’m currently learning Java.
-- 🤔 I’m looking for help with Airplane Paper Fork.
+- 🌱 I’m currently learning more advanced Java.
 - 📫 How to reach me: On discord! My discord -> HEROOSTECH#0001.
 - ⚡ Fun fact: My name is shortcut of very long name.
 - 💚 My favorite game: Minecraft.
