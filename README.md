@@ -8,3 +8,4 @@
 - 💥 I love making plugins for Bukkit and creating minestom servers.
 
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=548880172032589835)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HEROOSTECH)](https://github.com/anuraghazra/github-readme-stats)
