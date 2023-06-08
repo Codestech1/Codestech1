@@ -8,6 +8,15 @@
 
 - **🕰️ Wakatime stats**
 <!--START_SECTION:waka-->
+
+```txt
+From: 31 May 2023 - To: 07 June 2023
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 # ☕ Languages i use most often
