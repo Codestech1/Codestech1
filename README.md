@@ -10,11 +10,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 May 2023 - To: 07 June 2023
+From: 01 June 2023 - To: 08 June 2023
 
-Total Time: 0 secs
+Total Time: 13 mins
 
-No activity tracked
+Kotlin   12 mins         ████████████████████████░   96.57 %
+Java     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
 ```
 
 <!--END_SECTION:waka-->
