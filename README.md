@@ -10,12 +10,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 June 2023 - To: 09 June 2023
+From: 03 June 2023 - To: 10 June 2023
 
-Total Time: 5 hrs 18 mins
+Total Time: 11 hrs 6 mins
 
-Kotlin   5 hrs 17 mins   █████████████████████████   99.86 %
-Java     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Kotlin   11 hrs 6 mins   █████████████████████████   99.93 %
+Java     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
