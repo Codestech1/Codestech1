@@ -10,15 +10,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 June 2023 - To: 12 June 2023
+From: 06 June 2023 - To: 13 June 2023
 
-Total Time: 23 hrs 57 mins
+Total Time: 28 hrs 31 mins
 
-Kotlin           18 hrs 51 mins  ███████████████████▓░░░░░   78.69 %
-Java             4 hrs 54 mins   █████░░░░░░░░░░░░░░░░░░░░   20.48 %
-Properties       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-CLASS            3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-GitIgnore file   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Kotlin           21 hrs 37 mins  ███████████████████░░░░░░   75.82 %
+Java             6 hrs 31 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.85 %
+GitIgnore file   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Properties       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Gradle           3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
