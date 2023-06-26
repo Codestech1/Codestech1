@@ -10,15 +10,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 June 2023 - To: 23 June 2023
+From: 17 June 2023 - To: 24 June 2023
 
-Total Time: 48 hrs 8 mins
+Total Time: 55 hrs 15 mins
 
-Kotlin           33 hrs 3 mins   █████████████████▒░░░░░░░   68.67 %
-Java             7 hrs 1 min     ███▓░░░░░░░░░░░░░░░░░░░░░   14.60 %
-Diff             1 hr 16 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
-Bash             1 hr 11 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-PATCH            58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+Kotlin           35 hrs 32 mins  ████████████████░░░░░░░░░   64.30 %
+Java             8 hrs 6 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.67 %
+textmate         1 hr 44 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+XML              1 hr 44 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+Diff             1 hr 27 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
 ```
 
 <!--END_SECTION:waka-->
