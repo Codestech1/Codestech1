@@ -10,15 +10,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 June 2023 - To: 04 July 2023
+From: 28 June 2023 - To: 05 July 2023
 
-Total Time: 70 hrs 44 mins
+Total Time: 72 hrs 39 mins
 
-Kotlin           58 hrs 56 mins  ████████████████████▓░░░░   83.32 %
-Java             5 hrs 29 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
-TOML             1 hr 33 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
-Properties       1 hr 23 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-PATCH            1 hr 20 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+Kotlin           62 hrs 38 mins  █████████████████████▓░░░   86.21 %
+Java             3 hrs 39 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
+Properties       1 hr 44 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+TOML             1 hr 36 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+PATCH            1 hr 20 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
 ```
 
 <!--END_SECTION:waka-->
