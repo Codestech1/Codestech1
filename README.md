@@ -10,15 +10,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 June 2023 - To: 07 July 2023
+From: 01 July 2023 - To: 08 July 2023
 
-Total Time: 52 hrs 34 mins
+Total Time: 39 hrs 31 mins
 
-Kotlin           48 hrs 13 mins  ███████████████████████░░   91.75 %
-Properties       1 hr 49 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-TOML             51 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-Java             49 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-YAML             33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+Kotlin           37 hrs 6 mins   ███████████████████████▒░   93.90 %
+Properties       1 hr 25 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+TOML             34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+YAML             8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Java             7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
