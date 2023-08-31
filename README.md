@@ -10,15 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 August 2023 - To: 28 August 2023
+From: 22 August 2023 - To: 29 August 2023
 
-Total Time: 10 hrs 19 mins
+Total Time: 4 hrs 1 min
 
-Kotlin           9 hrs 49 mins   ███████████████████████▓░   95.16 %
-Properties       17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
-ActionScript 3   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-TOML             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-XML              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Kotlin       4 hrs           █████████████████████████   99.73 %
+Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
