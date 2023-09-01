@@ -10,13 +10,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 August 2023 - To: 29 August 2023
+From: 23 August 2023 - To: 30 August 2023
 
-Total Time: 4 hrs 1 min
+Total Time: 3 hrs 10 mins
 
-Kotlin       4 hrs           █████████████████████████   99.73 %
-Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Kotlin       3 hrs 10 mins   █████████████████████████   99.71 %
+Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
