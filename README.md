@@ -10,15 +10,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 September 2023 - To: 27 September 2023
+From: 21 September 2023 - To: 28 September 2023
 
-Total Time: 20 hrs 56 mins
+Total Time: 35 hrs 16 mins
 
-Kotlin           18 hrs 25 mins  ██████████████████████░░░   88.03 %
-Java             1 hr 33 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
-YAML             55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-Python           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Kotlin           29 hrs 50 mins  █████████████████████░░░░   84.62 %
+Java             4 hrs 8 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
+YAML             55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+TOML             15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+HTML             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
