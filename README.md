@@ -10,15 +10,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 October 2023 - To: 30 October 2023
+From: 24 October 2023 - To: 31 October 2023
 
-Total Time: 20 hrs 4 mins
+Total Time: 23 hrs 5 mins
 
-Kotlin            13 hrs 55 mins  █████████████████▒░░░░░░░   69.37 %
-Java              5 hrs 47 mins   ███████▒░░░░░░░░░░░░░░░░░   28.82 %
-YAML              14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-TOML              5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Kotlin           13 hrs 30 mins  ██████████████▓░░░░░░░░░░   58.48 %
+Java             9 hrs 14 mins   ██████████░░░░░░░░░░░░░░░   40.01 %
+YAML             14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+TOML             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
