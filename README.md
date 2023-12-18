@@ -10,11 +10,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 December 2023 - To: 15 December 2023
+From: 09 December 2023 - To: 16 December 2023
 
-Total Time: 0 secs
+Total Time: 2 hrs 18 mins
 
-No activity tracked
+Java             2 hrs 8 mins    ███████████████████████▒░   93.08 %
+GitIgnore file   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+YAML             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+Kotlin           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
