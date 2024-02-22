@@ -10,13 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 February 2024 - To: 19 February 2024
+From: 13 February 2024 - To: 20 February 2024
 
-Total Time: 6 hrs 6 mins
+Total Time: 2 hrs 49 mins
 
-Java           5 hrs 22 mins   ██████████████████████░░░   87.99 %
-YAML           42 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 %
-TOML           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Java           2 hrs 27 mins   ██████████████████████░░░   87.40 %
+YAML           20 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 %
+TOML           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 Kotlin         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
