@@ -10,12 +10,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 April 2024 - To: 24 April 2024
+From: 18 April 2024 - To: 25 April 2024
 
-Total Time: 11 hrs 10 mins
+Total Time: 11 hrs 44 mins
 
-Java           11 hrs 1 min    ████████████████████████▓   98.54 %
-Docker         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Java           11 hrs 34 mins  ████████████████████████▓   98.61 %
+Docker         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 Kotlin         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 TOML           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
