@@ -10,15 +10,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 May 2024 - To: 30 May 2024
+From: 24 May 2024 - To: 31 May 2024
 
-Total Time: 29 hrs 25 mins
+Total Time: 36 hrs 10 mins
 
-Java              27 hrs 45 mins  ███████████████████████▓░   94.30 %
-Kotlin            1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
-TOML              20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-GitIgnore file    5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-YAML              4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Java              34 hrs 19 mins  ███████████████████████▓░   94.87 %
+Kotlin            1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+TOML              20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+GitIgnore file    6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+XML               4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
