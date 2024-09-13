@@ -10,12 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 September 2024 - To: 10 September 2024
+From: 04 September 2024 - To: 11 September 2024
 
-Total Time: 2 hrs 8 mins
+Total Time: 1 hr 2 mins
 
-Java   2 hrs 8 mins    █████████████████████████   99.80 %
-JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Java       1 hr 1 min      ████████████████████████▓   98.29 %
+Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
