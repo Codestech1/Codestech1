@@ -10,15 +10,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2024 - To: 17 September 2024
+From: 11 September 2024 - To: 18 September 2024
 
-Total Time: 1 hr 43 mins
+Total Time: 1 hr 40 mins
 
-Java             1 hr 38 mins    ███████████████████████▓░   94.85 %
-JSON             2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-Kotlin           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-Markdown         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+Java             1 hr 36 mins    ████████████████████████░   95.51 %
+JSON             2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+Kotlin           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
 GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
