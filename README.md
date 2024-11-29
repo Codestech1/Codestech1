@@ -10,13 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 November 2024 - To: 26 November 2024
+From: 20 November 2024 - To: 27 November 2024
 
-Total Time: 15 hrs 2 mins
+Total Time: 16 hrs 42 mins
 
-Java       14 hrs 56 mins  ████████████████████████▓   99.31 %
-Markdown   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-TOML       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Java       16 hrs 36 mins  █████████████████████████   99.38 %
+Markdown   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+TOML       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 Kotlin     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 textmate   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
