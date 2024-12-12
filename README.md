@@ -10,15 +10,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 December 2024 - To: 09 December 2024
+From: 03 December 2024 - To: 10 December 2024
 
-Total Time: 14 hrs 50 mins
+Total Time: 15 hrs 29 mins
 
-Java              14 hrs 24 mins  ████████████████████████▒   97.04 %
-Kotlin            19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-XML               3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-Markdown          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-TOML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Java              15 hrs 2 mins   ████████████████████████▒   97.09 %
+Kotlin            19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+XML               3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Markdown          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+TOML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
