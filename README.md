@@ -10,13 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 December 2024 - To: 19 December 2024
+From: 13 December 2024 - To: 20 December 2024
 
 Total Time: 17 hrs 29 mins
 
 Java              15 hrs 35 mins  ██████████████████████▒░░   89.13 %
 Properties        27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-Java Properties   27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+Java Properties   27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
 Gradle            16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
 JSON              16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
 ```
