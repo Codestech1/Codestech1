@@ -10,15 +10,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 January 2025 - To: 16 January 2025
+From: 10 January 2025 - To: 17 January 2025
 
-Total Time: 1 hr 53 mins
+Total Time: 10 mins
 
-Java              1 hr 41 mins    ██████████████████████▒░░   89.47 %
-Groovy            4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
-JSON              4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
-Properties        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-Java Properties   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Java              4 mins          ████████████░░░░░░░░░░░░░   47.89 %
+JSON              2 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.72 %
+Properties        0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 %
+Groovy            0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
+Gradle            0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
 ```
 
 <!--END_SECTION:waka-->
