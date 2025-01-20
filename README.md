@@ -10,15 +10,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2025 - To: 17 January 2025
+From: 11 January 2025 - To: 18 January 2025
 
-Total Time: 10 mins
+Total Time: 0 secs
 
-Java              4 mins          ████████████░░░░░░░░░░░░░   47.89 %
-JSON              2 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.72 %
-Properties        0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 %
-Groovy            0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
-Gradle            0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
