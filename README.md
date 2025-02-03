@@ -10,12 +10,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 January 2025 - To: 31 January 2025
+From: 25 January 2025 - To: 01 February 2025
 
-Total Time: 32 hrs 40 mins
+Total Time: 31 hrs 46 mins
 
-Java           32 hrs 22 mins  ████████████████████████▓   99.11 %
-Kotlin         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Java           31 hrs 29 mins  ████████████████████████▓   99.08 %
+Kotlin         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 JSON           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 TOML           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 Batchfile      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
