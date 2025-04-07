@@ -10,14 +10,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 March 2025 - To: 04 April 2025
+From: 29 March 2025 - To: 05 April 2025
 
-Total Time: 5 hrs 48 mins
+Total Time: 3 hrs 33 mins
 
-Java           5 hrs 48 mins   █████████████████████████   99.93 %
-Kotlin         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-JSON           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Java   3 hrs 33 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
