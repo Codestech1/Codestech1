@@ -10,13 +10,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 April 2025 - To: 17 April 2025
+From: 11 April 2025 - To: 18 April 2025
 
-Total Time: 5 hrs 38 mins
+Total Time: 8 hrs 20 mins
 
-Java     5 hrs 38 mins   █████████████████████████   99.98 %
-JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Kotlin   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java       8 hrs 18 mins   █████████████████████████   99.60 %
+textmate   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Kotlin     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
