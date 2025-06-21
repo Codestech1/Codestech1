@@ -10,12 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 June 2025 - To: 18 June 2025
+From: 12 June 2025 - To: 19 June 2025
 
-Total Time: 4 hrs 24 mins
+Total Time: 7 hrs 48 mins
 
-Java       4 hrs 24 mins   █████████████████████████   99.78 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Java       7 hrs 46 mins   █████████████████████████   99.63 %
+YAML       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 Kotlin     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
