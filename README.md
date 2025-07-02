@@ -10,15 +10,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 June 2025 - To: 29 June 2025
+From: 23 June 2025 - To: 30 June 2025
 
-Total Time: 9 hrs
+Total Time: 14 hrs 15 mins
 
-Java             8 hrs 30 mins   ███████████████████████▓░   94.52 %
-TOML             22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
-Shell Script     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-Kotlin           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Other            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Java             13 hrs 41 mins  ████████████████████████░   96.08 %
+TOML             23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+Shell Script     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Kotlin           3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Other            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
