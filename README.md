@@ -10,14 +10,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 September 2025 - To: 19 September 2025
+From: 13 September 2025 - To: 20 September 2025
 
-Total Time: 5 hrs 59 mins
+Total Time: 8 hrs 19 mins
 
-Java           5 hrs 59 mins   █████████████████████████   99.92 %
-Other          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-textmate       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java    8 hrs 19 mins   █████████████████████████   99.94 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
