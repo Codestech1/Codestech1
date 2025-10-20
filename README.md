@@ -10,15 +10,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 October 2025 - To: 17 October 2025
+From: 11 October 2025 - To: 18 October 2025
 
-Total Time: 7 hrs 44 mins
+Total Time: 13 hrs 20 mins
 
-Java                       5 hrs 21 mins   █████████████████▒░░░░░░░   69.27 %
-Gradle                     39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
-TOML                       30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
-Groovy                     28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
-Java Properties            14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+Java                       11 hrs 5 mins   ████████████████████▓░░░░   83.06 %
+Gradle                     36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
+TOML                       30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+Groovy                     26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+JSON                       14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
 ```
 
 <!--END_SECTION:waka-->
