@@ -10,15 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 October 2025 - To: 20 October 2025
+From: 14 October 2025 - To: 21 October 2025
 
-Total Time: 8 hrs 49 mins
+Total Time: 6 hrs 30 mins
 
-Java                       7 hrs 47 mins   ██████████████████████░░░   88.15 %
-TOML                       30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
-Gradle                     22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
-Properties                 2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-Java Properties            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Java             6 hrs 29 mins   █████████████████████████   99.69 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
