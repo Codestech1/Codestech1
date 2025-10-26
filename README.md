@@ -10,14 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 October 2025 - To: 23 October 2025
+From: 17 October 2025 - To: 24 October 2025
 
-Total Time: 11 hrs 12 mins
+Total Time: 10 hrs 42 mins
 
-Java             11 hrs 10 mins  █████████████████████████   99.82 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Shell Script     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java           10 hrs 42 mins  █████████████████████████   99.93 %
+JSON           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
