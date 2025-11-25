@@ -10,14 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 November 2025 - To: 22 November 2025
+From: 16 November 2025 - To: 23 November 2025
 
-Total Time: 6 hrs 2 mins
+Total Time: 3 hrs 35 mins
 
-Java         5 hrs 58 mins   ████████████████████████▓   98.92 %
-Kotlin       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java     3 hrs 32 mins   ████████████████████████▓   98.78 %
+Kotlin   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+TOML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
