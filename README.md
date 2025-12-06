@@ -10,12 +10,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 November 2025 - To: 03 December 2025
+From: 27 November 2025 - To: 04 December 2025
 
-Total Time: 6 hrs 31 mins
+Total Time: 5 hrs 57 mins
 
-Java     6 hrs 30 mins   █████████████████████████   99.98 %
-Kotlin   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Java     5 hrs 57 mins   █████████████████████████   99.97 %
+Kotlin   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
