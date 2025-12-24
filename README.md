@@ -10,11 +10,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 December 2025 - To: 21 December 2025
+From: 15 December 2025 - To: 22 December 2025
 
-Total Time: 40 mins
+Total Time: 1 hr 36 mins
 
-Java   40 mins         █████████████████████████   100.00 %
+Java   1 hr 36 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
