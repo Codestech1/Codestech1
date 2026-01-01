@@ -10,11 +10,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 December 2025 - To: 29 December 2025
+From: 23 December 2025 - To: 30 December 2025
 
-Total Time: 11 hrs 13 mins
+Total Time: 13 hrs 26 mins
 
-Java   11 hrs 13 mins  █████████████████████████   100.00 %
+Java              12 hrs 52 mins  ████████████████████████░   95.73 %
+Properties        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+Java Properties   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+Gradle            7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+Groovy            3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
