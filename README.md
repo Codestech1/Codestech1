@@ -10,15 +10,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 December 2025 - To: 05 January 2026
+From: 30 December 2025 - To: 06 January 2026
 
-Total Time: 37 hrs 33 mins
+Total Time: 34 hrs 55 mins
 
-Java              35 hrs 49 mins  ████████████████████████░   95.40 %
-Kotlin            45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-TOML              20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-Properties        13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-Java Properties   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Java              33 hrs 46 mins  ████████████████████████▒   96.70 %
+Kotlin            45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+TOML              18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+YAML              5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+GitIgnore file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
