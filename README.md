@@ -10,13 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2025 - To: 07 January 2026
+From: 01 January 2026 - To: 08 January 2026
 
-Total Time: 28 hrs 32 mins
+Total Time: 23 hrs
 
-Java           28 hrs 23 mins  █████████████████████████   99.46 %
-Kotlin         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-TOML           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Java           22 hrs 51 mins  ████████████████████████▓   99.33 %
+Kotlin         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+TOML           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 YAML           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
