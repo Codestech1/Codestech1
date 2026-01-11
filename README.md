@@ -10,15 +10,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 January 2026 - To: 08 January 2026
+From: 02 January 2026 - To: 09 January 2026
 
-Total Time: 23 hrs
+Total Time: 23 hrs 8 mins
 
-Java           22 hrs 51 mins  ████████████████████████▓   99.33 %
-Kotlin         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-TOML           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-YAML           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java              22 hrs 55 mins  ████████████████████████▓   99.07 %
+Kotlin            7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+TOML              5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+HTML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Shell Script      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
