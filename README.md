@@ -10,15 +10,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 January 2026 - To: 11 January 2026
+From: 05 January 2026 - To: 12 January 2026
 
-Total Time: 15 hrs 41 mins
+Total Time: 8 hrs 33 mins
 
-Java              14 hrs 1 min    ██████████████████████▒░░   89.34 %
-Kotlin            1 hr 5 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
-TOML              15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-Properties        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-Java Properties   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Java              7 hrs 2 mins    ████████████████████▓░░░░   82.28 %
+Kotlin            59 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 %
+TOML              12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+Properties        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+Java Properties   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
 
 <!--END_SECTION:waka-->
