@@ -10,12 +10,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 January 2026 - To: 24 January 2026
+From: 18 January 2026 - To: 25 January 2026
 
-Total Time: 28 hrs 56 mins
+Total Time: 29 hrs 26 mins
 
-Java           28 hrs 56 mins  █████████████████████████   99.99 %
-Kotlin         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java           29 hrs 26 mins  █████████████████████████   100.00 %
 Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
