@@ -10,13 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 February 2026 - To: 12 February 2026
+From: 06 February 2026 - To: 13 February 2026
 
-Total Time: 13 hrs 34 mins
+Total Time: 16 hrs 10 mins
 
-Java           13 hrs 23 mins  ████████████████████████▓   98.68 %
-Kotlin         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-textmate       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Java           15 hrs 59 mins  ████████████████████████▓   98.89 %
+Kotlin         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+textmate       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 YAML           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
